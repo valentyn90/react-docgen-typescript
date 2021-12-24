@@ -1,12 +1,5 @@
 # react-docgen-typescript
 
-[![Build Status](https://github.com/styleguidist/react-docgen-typescript/actions/workflows/nodejs.yml/badge.svg)](https://github.com/styleguidist/react-docgen-typescript/actions/workflows/nodejs.yml)
-
-![](https://nodei.co/npm/react-docgen-typescript.png?downloadRank=true&downloads=true)
-
-A simple parser for React properties defined in TypeScript instead of propTypes.
-
-It can be used with [React Styleguidist](https://github.com/styleguidist/react-styleguidist).
 
 ## Installation
 
