@@ -261,19 +261,3 @@ export const Grid = (props: IGridProps) => {
 Will generate the following stylesheet:
 
 ![Stylesheet example](https://github.com/styleguidist/react-docgen-typescript/raw/master/stylesheet-example-grid.png "Stylesheet example")
-
-## Contributions
-
-The typescript is pretty complex and there are many different ways how
-to define components and their props so it's realy hard to support all
-these use cases. That means only one thing, contributions are highly
-welcome. Just keep in mind that each PR should also include tests for
-the part it's fixing.
-
-Thanks to all contributors without their help there wouldn't be a single
-bug fixed or feature implemented. Check the [**contributors**](https://github.com/styleguidist/react-docgen-typescript/graphs/contributors) tab to find out
-more. All those people supported this project. **THANK YOU!**
-
-## Thanks to others
-
-The integration with React Styleguidist wouldn't be possible without [Vyacheslav Slinko](https://github.com/vslinko) pull request [#118](https://github.com/styleguidist/react-styleguidist/pull/118) at React Styleguidist.
